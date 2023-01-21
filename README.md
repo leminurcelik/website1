@@ -1,0 +1,2 @@
+# WEBSITE 1
+I created a website of my high school using HTML and CSS. Using GIMP and Inkscape, I organized pictures and created new pictures by adding texts and shapes to the pictures in my website of my high school.
